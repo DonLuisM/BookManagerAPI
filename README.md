@@ -32,7 +32,7 @@ The project also includes a basic user interface to interact with the API and ma
 - **JavaScript**: Handles logic and user interactions.
 
 ---
-🧩 Project structure
+### 🧩 Project structure
 ```
 📁 BookManagerAPI
 │
